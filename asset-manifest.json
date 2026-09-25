@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/[https://didmww.github.io/lab7_task1_front](https://didmww.github.io/lab7_task1_front)/static/css/main.d4a12a8c.css",
+    "main.js": "/[https://didmww.github.io/lab7_task1_front](https://didmww.github.io/lab7_task1_front)/static/js/main.21c2172a.js",
+    "static/media/cher.jpg": "/[https://didmww.github.io/lab7_task1_front](https://didmww.github.io/lab7_task1_front)/static/media/cher.8149cbe1e2d2fd16fe1b.jpg",
+    "index.html": "/[https://didmww.github.io/lab7_task1_front](https://didmww.github.io/lab7_task1_front)/index.html",
+    "main.d4a12a8c.css.map": "/[https://didmww.github.io/lab7_task1_front](https://didmww.github.io/lab7_task1_front)/static/css/main.d4a12a8c.css.map",
+    "main.21c2172a.js.map": "/[https://didmww.github.io/lab7_task1_front](https://didmww.github.io/lab7_task1_front)/static/js/main.21c2172a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a12a8c.css",
+    "static/js/main.21c2172a.js"
+  ]
+}
